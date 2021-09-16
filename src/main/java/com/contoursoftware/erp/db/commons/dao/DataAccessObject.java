@@ -1,4 +1,4 @@
-package com.contoursoftware.erp.commons.db.dao;
+package com.contoursoftware.erp.db.commons.dao;
 
 public interface DataAccessObject<T> {
 

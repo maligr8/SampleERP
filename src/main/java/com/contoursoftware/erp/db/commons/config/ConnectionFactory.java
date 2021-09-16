@@ -1,4 +1,4 @@
-package com.contoursoftware.erp.commons.db.config;
+package com.contoursoftware.erp.db.commons.config;
 
 import java.sql.Connection;
 

@@ -1,6 +1,6 @@
-package com.contoursoftware.erp.commons.db.dao.impl;
+package com.contoursoftware.erp.db.commons.dao.impl;
 
-import com.contoursoftware.erp.commons.db.dao.DataAccessObject;
+import com.contoursoftware.erp.db.commons.dao.DataAccessObject;
 
 public class GenericDataAccessObject<T> implements DataAccessObject<T> {
 

@@ -1,6 +1,6 @@
 package com.contoursoftware.erp.db.admin.dao;
 
-import com.contoursoftware.erp.commons.db.dao.DataAccessObject;
+import com.contoursoftware.erp.db.commons.dao.DataAccessObject;
 import com.contoursoftware.erp.db.admin.dto.UserDTO;
 
 import java.util.ArrayList;
